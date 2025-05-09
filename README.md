@@ -42,3 +42,9 @@ A simple and enhanced **Employee Management System** with salary and tax calcula
    ```bash
    git clone https://github.com/yourusername/enhanced-tip-calculator.git
    cd enhanced-tip-calculator
+   
+2. **Open the project in an IDE like IntelliJ IDEA or Eclipse (JavaFX supported)**
+
+3. **Run the application using the App.java or LoaderApplication.java class**
+
+## Screenshot
